@@ -1,0 +1,7 @@
+font code
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+</style>
+
+font-family: 'East Sea Dokdo', cursive;
